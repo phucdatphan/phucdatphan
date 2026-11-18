@@ -1,0 +1,57 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="920" height="220" viewBox="0 0 920 220" fill="none" role="img" aria-label="End-to-End E-Wallet Payment System Architecture">
+  <rect x="1" y="1" width="918" height="218" rx="14" fill="#0B1120" stroke="#1E293B" stroke-width="1.5"/>
+
+  <!-- Header label -->
+  <text x="28" y="32" fill="#94A3B8" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="11" font-weight="600" letter-spacing="0.8">SYSTEM ARCHITECTURE · END-TO-END E-WALLET PAYMENT LIFECYCLE</text>
+  <line x1="28" y1="44" x2="892" y2="44" stroke="#1E293B" stroke-width="1"/>
+
+  <!-- Stage 1 Box -->
+  <g transform="translate(28, 56)">
+    <rect x="0" y="0" width="268" height="142" rx="10" fill="#111C2D" stroke="#0EA5E9" stroke-opacity="0.45"/>
+    <rect x="14" y="14" width="66" height="20" rx="5" fill="#0C4A6E"/>
+    <text x="47" y="28" text-anchor="middle" fill="#38BDF8" font-family="ui-monospace, SFMono-Regular, monospace" font-size="10.5" font-weight="700">STAGE I</text>
+    <text x="88" y="28" fill="#E2E8F0" font-family="system-ui, -apple-system, sans-serif" font-size="12.5" font-weight="700">Core &amp; Security Spec</text>
+
+    <text x="14" y="54" fill="#CBD5E1" font-family="system-ui, -apple-system, sans-serif" font-size="11.5">• Merchant &lt;-&gt; Gateway Sandbox</text>
+    <text x="14" y="74" fill="#CBD5E1" font-family="system-ui, -apple-system, sans-serif" font-size="11.5">• BABOK BRD/SRS &amp; State Machine</text>
+    <text x="14" y="94" fill="#CBD5E1" font-family="system-ui, -apple-system, sans-serif" font-size="11.5">• Canonical HMAC Signature Check</text>
+    <text x="14" y="114" fill="#CBD5E1" font-family="system-ui, -apple-system, sans-serif" font-size="11.5">• Async IPN &amp; Idempotency Guard</text>
+    <text x="14" y="132" fill="#38BDF8" font-family="ui-monospace, SFMono-Regular, monospace" font-size="10">e-wallet-payment-simulator</text>
+  </g>
+
+  <!-- Connector 1 -> 2 -->
+  <path d="M 300 127 L 322 127" stroke="#475569" stroke-width="1.8" stroke-dasharray="3 3"/>
+  <polygon points="322,123 330,127 322,131" fill="#38BDF8"/>
+
+  <!-- Stage 2 Box -->
+  <g transform="translate(334, 56)">
+    <rect x="0" y="0" width="252" height="142" rx="10" fill="#111C2D" stroke="#8B5CF6" stroke-opacity="0.45"/>
+    <rect x="14" y="14" width="66" height="20" rx="5" fill="#3B0764"/>
+    <text x="47" y="28" text-anchor="middle" fill="#C4B5FD" font-family="ui-monospace, SFMono-Regular, monospace" font-size="10.5" font-weight="700">STAGE II</text>
+    <text x="88" y="28" fill="#E2E8F0" font-family="system-ui, -apple-system, sans-serif" font-size="12.5" font-weight="700">Checkout UX &amp; UAT</text>
+
+    <text x="14" y="54" fill="#CBD5E1" font-family="system-ui, -apple-system, sans-serif" font-size="11.5">• Interactive Figma Checkout Flows</text>
+    <text x="14" y="74" fill="#CBD5E1" font-family="system-ui, -apple-system, sans-serif" font-size="11.5">• Agile Stories (Given-When-Then)</text>
+    <text x="14" y="94" fill="#CBD5E1" font-family="system-ui, -apple-system, sans-serif" font-size="11.5">• End-to-End UAT Verification Suite</text>
+    <text x="14" y="114" fill="#CBD5E1" font-family="system-ui, -apple-system, sans-serif" font-size="11.5">• Active Status Polling &amp; Postman</text>
+    <text x="14" y="132" fill="#C4B5FD" font-family="ui-monospace, SFMono-Regular, monospace" font-size="10">e-wallet-checkout-ux-uat</text>
+  </g>
+
+  <!-- Connector 2 -> 3 -->
+  <path d="M 590 127 L 612 127" stroke="#475569" stroke-width="1.8" stroke-dasharray="3 3"/>
+  <polygon points="612,123 620,127 612,131" fill="#34D399"/>
+
+  <!-- Stage 3 Box -->
+  <g transform="translate(624, 56)">
+    <rect x="0" y="0" width="268" height="142" rx="10" fill="#111C2D" stroke="#10B981" stroke-opacity="0.45"/>
+    <rect x="14" y="14" width="66" height="20" rx="5" fill="#064E3B"/>
+    <text x="47" y="28" text-anchor="middle" fill="#6EE7B7" font-family="ui-monospace, SFMono-Regular, monospace" font-size="10.5" font-weight="700">STAGE III</text>
+    <text x="88" y="28" fill="#E2E8F0" font-family="system-ui, -apple-system, sans-serif" font-size="12.5" font-weight="700">Recon &amp; Fraud BI</text>
+
+    <text x="14" y="54" fill="#CBD5E1" font-family="system-ui, -apple-system, sans-serif" font-size="11.5">• Post-Launch SQL Funnel Modeling</text>
+    <text x="14" y="74" fill="#CBD5E1" font-family="system-ui, -apple-system, sans-serif" font-size="11.5">• Multi-Party Settlement Recon</text>
+    <text x="14" y="94" fill="#CBD5E1" font-family="system-ui, -apple-system, sans-serif" font-size="11.5">• Real-World Card Fraud Benchmark</text>
+    <text x="14" y="114" fill="#CBD5E1" font-family="system-ui, -apple-system, sans-serif" font-size="11.5">• Anomaly Detection Rule Design</text>
+    <text x="14" y="132" fill="#6EE7B7" font-family="ui-monospace, SFMono-Regular, monospace" font-size="10">e-wallet-post-launch-analytics</text>
+  </g>
+</svg>
