@@ -26,7 +26,7 @@ Core methodology:
 
 ---
 
-## Selected System Case Study: End-to-End E-Wallet Payment Architecture
+##Case Study: End-to-End E-Wallet Payment Architecture
 
 <div align="center">
   <img src="./assets/ewallet-metrics.svg" width="100%" alt="End-to-End E-Wallet Payment System Overview" />
