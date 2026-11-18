@@ -6,7 +6,7 @@
 
 <div align="center">
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-phucdatphan.github.io-0F172A?style=flat-square&logo=vercel&logoColor=white)](https://phucdatphan.github.io)
+[![Portfolio](https://img.shields.io/badge/Portfolio-phucdatphan.github.io-0F172A?style=flat-square&logo=githubpages&logoColor=white)](https://phucdatphan.github.io)
 [![UEH](https://img.shields.io/badge/UEH-B.Sc._Innovation_%26_Technology-005696?style=flat-square)](https://www.ueh.edu.vn)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-phucdatphan-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/phucdatphan)
 [![Email](https://img.shields.io/badge/Email-phucdat.work%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:phucdat.work@gmail.com)
@@ -41,7 +41,7 @@ Core methodology:
 | **Stage III** | [**`e-wallet-post-launch-analytics`**](https://github.com/phucdatphan/e-wallet-post-launch-analytics) | Post-Launch Funnel, Settlement Recon & Fraud BI | Relational SQL (`CTEs`, `Window Functions`) & Python warehouse modeling checkout conversion funnels, multi-party bank settlement reconciliation (`AMOUNT_MISMATCH`, `MISSING_IPN`), and real-world card payment anomaly / anti-fraud rules. |
 
 <details>
-<summary><strong>🔍 Expand System Dataflow &amp; Closed-Loop Iteration (Mermaid Diagram)</strong></summary>
+<summary><strong>Expand System Dataflow &amp; Closed-Loop Iteration (Mermaid Diagram)</strong></summary>
 <br />
 
 ```mermaid
