@@ -1,7 +1,7 @@
 # Phan Phuc Dat (@phucdatphan)
 
 > IT Business Analyst & Digital Transformation Associate  
-> University of Economics Ho Chi Minh City (UEH) — Bachelor of Innovation and Technology  
+> University of Economics Ho Chi Minh City (UEH) — Bachelor of Information and Technology - Innovation & Tech
 > Portfolio: https://phucdatphan.github.io | LinkedIn: https://linkedin.com/in/phucdatphan | Email: [phucdat.work@gmail.com](mailto:phucdat.work@gmail.com)
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-phucdatphan.github.io-0F172A?style=flat-square&logo=githubpages&logoColor=white)](https://phucdatphan.github.io)
