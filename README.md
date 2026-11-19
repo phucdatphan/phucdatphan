@@ -5,7 +5,7 @@
 > Portfolio: https://phucdatphan.github.io | LinkedIn: https://linkedin.com/in/phucdatphan | Email: [phucdat.work@gmail.com](mailto:phucdat.work@gmail.com)
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-phucdatphan.github.io-0F172A?style=flat-square&logo=githubpages&logoColor=white)](https://phucdatphan.github.io)
-[![UEH](https://img.shields.io/badge/UEH-B.Sc._Innovation_%26_Technology-005696?style=flat-square)](https://uii.ueh.edu.vn)
+[![UEH](https://img.shields.io/badge/UEH-Innovation_%26_Technology-005696?style=flat-square)](https://uii.ueh.edu.vn)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-phucdatphan-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/phucdatphan)
 [![Email](https://img.shields.io/badge/Email-phucdat.work%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:phucdat.work@gmail.com)
 ![Profile Views](https://komarev.com/ghpvc/?username=phucdatphan&label=Profile+views&color=2ea44f&style=flat-square&base=67)
